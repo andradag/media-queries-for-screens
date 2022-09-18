@@ -46,10 +46,11 @@ header {
 }
 
 footer {
-  position: absolute;
+  position: fixed;
+  bottom: 2%;
   width: 100%;
   text-align: center;
-  float: inline-end;
+  float: inline-start;
   color: rgb(12, 228, 228);
 }
 
